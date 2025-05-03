@@ -11,7 +11,7 @@ This Power BI dashboard presents a comprehensive analysis of mobile phone sales 
 - **Excel/CSV** – Source data
 
 ---
-[Dahsboard](https://github.com/rupadhande/Mobile-Data-Sales-Analysis/blob/main/Dashboard.jpg)
+![Dahsboard](https://github.com/rupadhande/Mobile-Data-Sales-Analysis/blob/main/Dashboard.jpg)
 
 ## 📌 Storytelling Insights
 
